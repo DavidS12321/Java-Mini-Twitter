@@ -18,4 +18,4 @@ Mini Twitter is a Java desktop application developed using Java Swing that simul
 
 ## What I learned
 
-. I was able to enhance my Java skills by implementing multiple design patterns and create a clone of a complex social media platform.
+I was able to enhance my Java skills by implementing multiple design patterns and create a clone of a complex social media platform.
