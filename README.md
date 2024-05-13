@@ -14,3 +14,8 @@ Mini Twitter is a Java desktop application developed using Java Swing that simul
   - **Singleton**: Ensures that classes such as the main application window are instantiated only once.
   - **Observer**: Manages notifications and updates across the user interface when data changes.
   - **Visitor**: Allows for the execution of operations across a set of objects at runtime, facilitating easy extension and maintenance.
+
+
+## What I learned
+
+. I was able to enhance my Java skills by implementing multiple design patterns and create a clone of a complex social media platform.
